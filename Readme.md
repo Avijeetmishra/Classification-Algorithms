@@ -1,6 +1,6 @@
 Project 3: Classification Algorithms
 
-Discription:In this project, we have implemented three classification algorithms: Nearest Neighbor, Decision Tree, and
+Description:In this project, we have implemented three classification algorithms: Nearest Neighbor, Decision Tree, and
 Naïve Bayes also Random Forest and boosting on Dicision Tree.
 
 To directly execute the code, go to "Project3\Code\Project3\WindowsFormsApplication2\bin\Debug" and run "Project3.exe" 
