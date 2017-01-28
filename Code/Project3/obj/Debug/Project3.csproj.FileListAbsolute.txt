@@ -1,0 +1,16 @@
+c:\users\avijeet\documents\visual studio 2015\Projects\Project3\Project3\bin\Debug\Project3.exe.config
+E:\data mining\p3\Project3\Project3\bin\Debug\Project3.exe.config
+E:\data mining\p3\Project3\Project3\bin\Debug\Project3.exe
+E:\data mining\p3\Project3\Project3\bin\Debug\Project3.pdb
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.csproj.ResolveComReference.cache
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.Properties.Resources.resources
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.csproj.GenerateResource.Cache
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.exe
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.pdb
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.Form1.resources
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.Form2.resources
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.Form3.resources
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.Form4.resources
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.Form5.resources
+E:\data mining\p3\Project3\Project3\obj\Debug\Project3.Form6.resources
